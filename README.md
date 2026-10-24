@@ -34,4 +34,4 @@ My focus is on connecting modern web interfaces and backend APIs with Large Lang
 - **Website Knowledge Assistant** — Developing an assistant that answers questions using website content and documentation.
 - **AI Workflow Agent** — Exploring AI agents that execute multi-step tasks using controlled tools.
 
-*Project repositories and live demos will be added as each project becomes functional.*
+
