@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Oyewale Sikirullah Olamide 👋
 
-<!--
-**SikirullahO/SikirullahO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | Aspiring AI Engineer
 
-Here are some ideas to get you started:
+I'm building on my full-stack development foundation to specialize in AI-powered applications that solve practical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is on connecting modern web interfaces and backend APIs with Large Language Models (LLMs), so applications can retrieve relevant information, answer questions using trusted sources, and automate structured workflows.
+
+## 🔬 My Current Focus
+
+- **RAG Systems:** Building document and website assistants that retrieve relevant content and generate source-grounded answers.
+- **LLM Applications:** Integrating OpenAI models into useful applications with reliable API handling.
+- **AI Agents:** Exploring tool calling, stateful workflows, and controlled task automation.
+- **Full-Stack Engineering:** Connecting Python and FastAPI backends to interfaces built with React and Next.js.
+- **Engineering Quality:** Learning to test, evaluate, document, and deploy AI applications responsibly.
