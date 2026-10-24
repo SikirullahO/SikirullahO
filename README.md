@@ -26,3 +26,12 @@ My focus is on connecting modern web interfaces and backend APIs with Large Lang
 **AI Engineering:** OpenAI, LangChain, LangGraph, AutoGen, RAG, AI Agents
 
 **Tools:** Git, GitHub, Docker, Kubernetes *(learning)*
+
+
+## 🚀 Projects I'm Building
+
+- **PDF Chat with RAG** — Building a document question-answering assistant that retrieves relevant information and provides source references.
+- **Website Knowledge Assistant** — Developing an assistant that answers questions using website content and documentation.
+- **AI Workflow Agent** — Exploring AI agents that execute multi-step tasks using controlled tools.
+
+*Project repositories and live demos will be added as each project becomes functional.*
