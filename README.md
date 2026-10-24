@@ -13,3 +13,16 @@ My focus is on connecting modern web interfaces and backend APIs with Large Lang
 - **AI Agents:** Exploring tool calling, stateful workflows, and controlled task automation.
 - **Full-Stack Engineering:** Connecting Python and FastAPI backends to interfaces built with React and Next.js.
 - **Engineering Quality:** Learning to test, evaluate, document, and deploy AI applications responsibly.
+
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, JavaScript, HTML, CSS
+
+**Frontend:** React, Next.js
+
+**Backend:** FastAPI, Node.js, Express.js
+
+**AI Engineering:** OpenAI, LangChain, LangGraph, AutoGen, RAG, AI Agents
+
+**Tools:** Git, GitHub, Docker, Kubernetes *(learning)*
